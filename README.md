@@ -1,6 +1,6 @@
 # sentiments_detection_cnn
 
-A basic example of Convolutional Neural Network (CNN).
+A basic example of Convolutional Neural Network (CNN) developed in python.
 The proyect is composed of two files:
 - The first one will train the model and tokenizer and save them in the directory.
 - The second (client) will use the two resources produced by the first file to process inputs introduced by the user through a html template.
